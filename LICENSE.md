@@ -1,4 +1,4 @@
-# 
+# Turbo Krita plugins for Mac OS | Automatic Krita plugins for PC Windows. Featuring gradient-tool and bezier-curves — optimized for maximum performance on every platform.
 
 
 
